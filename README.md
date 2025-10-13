@@ -1,9 +1,3 @@
-[![Ola Slidesuhub | PDF](https://tse3.mm.bing.net/th/id/OIP.rBpU722tNW4DaM7VQuCwLQHaJ4?cb=12\&pid=Api)](https://www.scribd.com/presentation/808154561/Ola-Slidesuhub-1?utm_source=chatgpt.com)
-
-Here’s your updated README with the slide images added:
-
----
-
 # Ola — Identifying Reasons & Trends for Ride Cancellations
 
 Analyzed trip data to find key factors behind ride cancellations and built a Power BI dashboard with SQL transformations.
@@ -71,6 +65,3 @@ A data-driven solution that **cut cancellation rates by ~10%**, improving reliab
 **Kartavya Bhardwaj**
 📧 [kartavyabhardwajwork@gmail.com](mailto:kartavyabhardwajwork@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/kartavya24) | [GitHub](https://github.com/kartavyabh24)
 
----
-
-If you want, I can also format this as a slide summary or a portfolio-friendly version. Do you want me to do that?
